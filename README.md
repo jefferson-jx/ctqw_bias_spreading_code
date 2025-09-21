@@ -1,1 +1,1 @@
-Code for the analysis and exact results of biased spreading in Continuous-Time Quantum Walks (CTQWs), based on initial delocalized states.
+Code for the work "Directionality and quantum backfire in continuous-time quantum walks from delocalized states: exact results".
